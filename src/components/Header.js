@@ -17,7 +17,7 @@ export const Header = () => {
                 </div>
                 <button className='profile btn d-flex align-items-center border-start'>
                     <h3 className='m-0'>Jones Ferdinand</h3>
-                    <img src='/images/avatar.png' alt='avatar' className='rounded-circle border border-secondary p-1' />
+                    <img src={process.env.PUBLIC_URL + '/images/avatar.png'} alt='avatar' className='rounded-circle border border-secondary p-1' />
                 </button>
             </div>
         </div>

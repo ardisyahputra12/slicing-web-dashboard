@@ -18,11 +18,15 @@ export const Trends = ({ trends }) => {
                         <p>as of 25 May 2019, 09:41 PM</p>
                         <div className='d-flex justify-content-between w-25'>
                             <p>
-                                <span className='pe-2'><img src='/images/divider-blue.png' /></span>
+                                <span className='pe-2'>
+                                    <img src={process.env.PUBLIC_URL + '/images/divider-blue.png'} alt='divider-blue' />
+                                </span>
                                 Today
                             </p>
                             <p>
-                                <span className='pe-2'><img src='/images/divider-grey.png' /></span>
+                                <span className='pe-2'>
+                                    <img src={process.env.PUBLIC_URL + '/images/divider-grey.png'} alt='divider-grey' />
+                                </span>
                                 Yesterday
                             </p>
                         </div>

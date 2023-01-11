@@ -22,7 +22,7 @@ export const SideBar = () => {
     return (
         <div className='sidebar position-fixed top-0 bottom-0'>
             <header className='d-flex align-items-center p-4 pt-0'>
-                <img src='/images/logo.png' alt='logo' />
+                <img src={process.env.PUBLIC_URL + '/images/logo.png'} alt='logo' />
                 <h1 className='m-0'>Dashboard Kit</h1>
             </header>
             <NavigationItem icon={<FaPuzzlePiece />} title='Overview' />
