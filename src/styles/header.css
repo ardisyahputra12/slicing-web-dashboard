@@ -1,0 +1,47 @@
+.header {
+    margin-bottom: 35px;
+}
+
+.header h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0.3px;
+    color: #252733;
+}
+
+.header-icon {
+    padding-right: 32px;
+}
+
+.header-icon .notif {
+    position: relative;
+    top: -5px;
+    right: 8px;
+}
+
+.profile {
+    padding-left: 32px;
+}
+
+.profile h3 {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #252733;
+    padding-right: 14px;
+}
+
+.profile img {
+    width: 45px;
+    height: 45px;
+}
+
+.icon-fa-search {
+    margin-right: 14px;
+}
+
+.icon-fa-bell {
+    margin-left: 14px;
+}

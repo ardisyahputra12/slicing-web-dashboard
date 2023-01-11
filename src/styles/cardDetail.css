@@ -1,0 +1,103 @@
+.card-detail {
+    height: 342px;
+}
+
+.card-detail-header {
+    margin-bottom: 36px;
+}
+
+.card-detail-header h2 {
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #252733;
+}
+
+.card-detail-header p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #9FA2B4;
+    margin: 0;
+}
+
+.card-detail-header button {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    letter-spacing: 0.2px;
+    color: #3751FF;
+}
+
+.card-ticket-title {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #252733;
+}
+
+.card-ticket-amount {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    letter-spacing: 0.2px;
+    color: #9FA2B4;
+}
+
+.card-ticket-item,
+.card-task-item {
+    height: 58px;
+}
+
+.card-task-icon-add {
+    background-color: #F0F1F7;
+    padding: 7px;
+    border-radius: 8px;
+}
+
+.card-task-title-add {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #252733 !important;
+    border: none;
+    outline: none;
+}
+
+.card-task-item p {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #252733;
+}
+
+.card-task-item button {
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.default-task-button {
+    color: #9FA2B4 !important;
+}
+
+.card-ticket {
+    margin-right: 15px;
+}
+
+.card-task {
+    margin-left: 15px;
+}

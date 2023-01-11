@@ -1,0 +1,45 @@
+.trends {
+    /* width: 1122px; */
+    height: 546px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.trends h2 {
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #252733;
+}
+
+.trends p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #9FA2B4;
+}
+
+.additional-item {
+    height: 106px;
+}
+
+.additional-item h2 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.3px;
+    color: #9FA2B4;
+    padding-bottom: 6px;
+}
+
+.additional-item p {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.3px;
+    color: #252733;
+}

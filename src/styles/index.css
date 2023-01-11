@@ -1,8 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import 'sidebar.css';
+@import 'header.css';
+@import 'summary.css';
+@import 'trends.css';
+@import 'cardDetail.css';
 
 * {
     font-family: 'Mulish', sans-serif;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+.main {
+    background-color: #F7F8FC;
+    margin-left: 255px;
+    padding-top: 36px;
 }
