@@ -1,8 +1,8 @@
 {
-  "name": "slicing-web-test-ssdigital",
+  "name": "slicing-web-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ardisyahputra12.github.io/slicing-web-test-ssdigital",
+  "homepage": "http://ardisyahputra12.github.io/slicing-web-dashboard",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
